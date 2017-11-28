@@ -3,9 +3,11 @@
 // Ver 1.0
 // Made by Filip Stangricki
 
-var getCelsius = prompt("Enter temperature in Celsius");
+
+var getCelsius = 15; // Enter temperature here and run it!
+
 var getKelvin = Math.floor(getCelsius) + 273.15;
 var getFahrenheit = getCelsius * 1.8 + 32;
 
-document.write("Celsius " + getCelsius + '°C <br>' + "Fahrenheit " + getFahrenheit  + '°F <br>' + "Kelvin " + getKelvin + '°K <br>');
+console.log("Celsius " + getCelsius + '°C \n' + "Fahrenheit " + getFahrenheit  + '°F \n' + "Kelvin " + getKelvin + '°K \n');
 
