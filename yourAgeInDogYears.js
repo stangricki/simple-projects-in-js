@@ -1,4 +1,4 @@
-let myAge = 31; // Enter your age here
+let myAge = 31; // Enter your age here and run the code!
 
 let earlyYears = 2;
 earlyYears *= 10.5;

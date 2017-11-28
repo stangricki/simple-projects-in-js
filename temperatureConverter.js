@@ -4,7 +4,7 @@
 // Made by Filip Stangricki
 
 
-var getCelsius = 15; // Enter temperature here and run it!
+var getCelsius = 15; // Enter temperature here and run the code!
 
 var getKelvin = Math.floor(getCelsius) + 273.15;
 var getFahrenheit = getCelsius * 1.8 + 32;
