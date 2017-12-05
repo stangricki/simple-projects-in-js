@@ -38,4 +38,4 @@ function playGame(userChoice) {
   console.log(determineWinner(userChoice, computerChoice));
 }
 
-playGame('Bomb'); // Enter 'rock', 'paper' or 'scissors' and run the code! ... or 'bomb' :D
+playGame('rock'); // Enter 'rock', 'paper' or 'scissors' and run the code! ... or 'bomb' :D
